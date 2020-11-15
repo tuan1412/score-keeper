@@ -1,0 +1,1 @@
+Project for minihack web full stack MindX
