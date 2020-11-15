@@ -1,0 +1,11 @@
+.title {
+  border-bottom: 1px solid #eeeeee;
+}
+
+input[type='number'] {
+  width: 70px;
+}
+
+.table td, .table th {
+  padding: .5rem
+}
